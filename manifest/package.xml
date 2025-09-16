@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<!-- Apex Framework -->
+		<members>naklab_ServiceLayer</members>
+		<members>naklab_DomainLayer</members>
+		<members>naklab_SelectorLayer</members>
+		<!-- Apex Framework Test -->
+		<members>naklab_ServiceLayerTest</members>
+		<members>naklab_DomainLayerTest</members>
+		<members>naklab_SelectorLayerTest</members>
+		<!-- Apex Framework Test Support -->
+		<members>naklab_TestExtendedServiceLayer</members>
+		<members>naklab_TestExtendedDomainLayer</members>
+		<members>naklab_TestExtendedSelectorLayer</members>
+		<!-- Controller Framework -->
+		<members>naklab_CoreController</members>
+		<!-- Controller Framework Test -->
+		<members>naklab_CoreControllerTest</members>
+		<!-- Controller Framework Test Support-->
+		<members>naklab_TestExtendedCoreController</members>
+		<!-- Async Framework -->
+		<members>naklab_Chainable</members>
+		<members>naklab_CoreQueueProcessor</members>
+		<members>naklab_CoreBatchProcessor</members>
+		<members>naklab_CoreScheduler</members>
+		<members>naklab_CoreChainableQueueProcessor</members>
+		<members>naklab_CoreChainableBatchProcessor</members>
+		<members>naklab_CoreChainableScheduler</members>
+		<!-- Async Framework Test -->
+		<members>naklab_CoreQueueProcessorTest</members>
+		<members>naklab_CoreBatchProcessorTest</members>
+		<members>naklab_CoreSchedulerTest</members>
+		<members>naklab_CoreChainableQueueProcessorTest</members>
+		<members>naklab_CoreChainableBatchProcessorTest</members>
+		<members>naklab_CoreChainableSchedulerTest</members>
+		<!-- Async Framework Test Support -->
+		<members>naklab_TestExtendedCoreQueueProcessor</members>
+		<members>naklab_TestExtendedCoreBatchProcessor</members>
+		<members>naklab_TestExtendedCoreScheduler</members>
+		<members>naklab_TestExtendedChainQueueProcessor</members>
+		<members>naklab_TestExtendedChainBatchProcessor</members>
+		<members>naklab_TestExtendedChainScheduler</members>
+		<!-- Query Framework -->
+		<members>naklab_QueryBuilder</members>
+		<!-- Query Framework Test -->
+		<members>naklab_QueryBuilderTest</members>
+		<!-- Query Framework - Constants -->
+		<members>naklab_ClauseName</members>
+		<members>naklab_ComparisonOperator</members>
+		<members>naklab_LogicalOperator</members>
+		<members>naklab_SortDirection</members>
+		<members>naklab_NullHandling</members>
+		<members>naklab_ScopeName</members>
+		<!-- Query Framework - Constants Test -->
+		<members>naklab_ClauseNameTest</members>
+		<members>naklab_ComparisonOperatorTest</members>
+		<members>naklab_LogicalOperatorTest</members>
+		<members>naklab_SortDirectionTest</members>
+		<members>naklab_NullHandlingTest</members>
+		<members>naklab_ScopeNameTest</members>
+		<!-- Query Framework - Clauses -->
+		<members>naklab_Clause</members>
+		<members>naklab_SelectClause</members>
+		<members>naklab_FromClause</members>
+		<members>naklab_WhereClause</members>
+		<members>naklab_OrderClause</members>
+		<members>naklab_LimitClause</members>
+		<members>naklab_OffsetClause</members>
+		<members>naklab_ScopeClause</members>
+		<!-- Query Framework - Clauses Test -->
+		<members>naklab_ClauseTest</members>
+		<members>naklab_SelectClauseTest</members>
+		<members>naklab_FromClauseTest</members>
+		<members>naklab_WhereClauseTest</members>
+		<members>naklab_OrderClauseTest</members>
+		<members>naklab_LimitClauseTest</members>
+		<members>naklab_OffsetClauseTest</members>
+		<members>naklab_ScopeClauseTest</members>
+		<!-- Query Framework - Clauses Test Support -->
+		<members>naklab_TestExtendedClause</members>
+		<!-- Query Framework - Fields -->
+		<members>naklab_QueryField</members>
+		<members>naklab_SelectField</members>
+		<members>naklab_WhereField</members>
+		<members>naklab_OrderField</members>
+		<!-- Query Framework - Fields Test -->
+		<members>naklab_QueryFieldTest</members>
+		<members>naklab_SelectFieldTest</members>
+		<members>naklab_WhereFieldTest</members>
+		<members>naklab_OrderFieldTest</members>
+		<!-- Query Framework - Fields Test Support -->
+		<members>naklab_TestExtendedQueryField</members>
+		<!-- DML Framework -->
+		<members>naklab_BaseDML</members>
+		<members>naklab_InsertDML</members>
+		<members>naklab_UpdateDML</members>
+		<members>naklab_UpsertDML</members>
+		<members>naklab_DeleteDML</members>
+		<members>naklab_UndeleteDML</members>
+		<!-- DML Framework Test -->
+		<members>naklab_BaseDMLTest</members>
+		<members>naklab_InsertDMLTest</members>
+		<members>naklab_UpdateDMLTest</members>
+		<members>naklab_UpsertDMLTest</members>
+		<members>naklab_DeleteDMLTest</members>
+		<members>naklab_UndeleteDMLTest</members>
+		<!-- DML Framework Test Support -->
+		<members>naklab_TestExtendedBaseDML</members>
+		<!-- Trigger Framework -->
+		<members>naklab_TriggerContextProvider</members>
+		<members>naklab_TriggerHandler</members>
+		<!-- Trigger Framework Test -->
+		<members>naklab_TriggerContextProviderTest</members>
+		<members>naklab_TriggerHandlerTest</members>
+		<!-- Trigger Framework Test Support -->
+		<members>naklab_TestExtendedTriggerHandler</members>
+		<members>naklab_TestExtendedBInsContextProvider</members>
+		<members>naklab_TestExtendedBUpdContextProvider</members>
+		<members>naklab_TestExtendedBDelContextProvider</members>
+		<members>naklab_TestExtendedAInsContextProvider</members>
+		<members>naklab_TestExtendedAUpdContextProvider</members>
+		<members>naklab_TestExtendedADelContextProvider</members>
+		<members>naklab_TestExtendedAUndContextProvider</members>
+		<!-- Test Framework -->
+		<members>naklab_TestConfig</members>
+		<name>ApexClass</name>
+	</types>
+	<version>62.0</version>
+</Package>
