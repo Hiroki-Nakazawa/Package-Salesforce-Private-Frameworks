@@ -8,6 +8,9 @@
 .localdevserver/
 deploy-options.json
 
+# VS Code cache
+.vscode/
+
 # Salesforce Package
 package/
 

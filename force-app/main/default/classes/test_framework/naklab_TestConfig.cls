@@ -23,7 +23,7 @@ public class naklab_TestConfig {
     // Datetime Format String
     public static final String DATETIME_FORMAT_STRING = 'yyyyMMddHHmmssSSS';
     // Key Format String
-    public static final String KET_FORMAT_STRING = '{0}-{1}';
+    public static final String KEY_FORMAT_STRING = '{0}-{1}';
 
     //*********************************************************************************************
     //   Test Callout Series
